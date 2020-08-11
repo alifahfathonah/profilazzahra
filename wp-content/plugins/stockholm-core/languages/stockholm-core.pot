@@ -1,0 +1,2362 @@
+# Copyright (C) 2019 Select Themes
+# This file is distributed under the same license as the Stockholm Core plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stockholm Core 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/stockholm-core\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-12-30T11:46:45+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: stockholm-core\n"
+
+#. Plugin Name of the plugin
+msgid "Stockholm Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin that adds additional features needed by our theme"
+msgstr ""
+
+#. Author of the plugin
+msgid "Select Themes"
+msgstr ""
+
+#: modules/ajax_mail.php:50
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again. (reCAPTCHA said: %s)"
+msgstr ""
+
+#: modules/contact/contact-form.php:22
+msgid "First Name *"
+msgstr ""
+
+#: modules/contact/contact-form.php:27
+msgid "Last Name *"
+msgstr ""
+
+#: modules/contact/contact-form.php:32
+#: modules/contact/contact-form.php:38
+msgid "Email *"
+msgstr ""
+
+#: modules/contact/contact-form.php:43
+msgid "Website"
+msgstr ""
+
+#: modules/contact/contact-form.php:49
+msgid "Message"
+msgstr ""
+
+#: modules/contact/contact-form.php:55
+#: modules/helper.php:339
+msgid "Contact Us"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:39
+#: modules/core-dashboard/core-dashboard.php:40
+msgid "Stockholm Dashboard"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:125
+msgid "All fields are empty"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:146
+msgid "Purchase Code and Email are empty"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:151
+msgid "Purchase Code is empty"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:153
+msgid "Email is empty"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:272
+msgid "Bad request"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:278
+msgid "Invalid Response"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:291
+msgid "Failed to validate code due to an error"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:294
+msgid "Parameter or argument in the request was invalid"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:297
+msgid "The authorization header is missing. Verify that your code is correct."
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:300
+msgid "Personal token is incorrect or does not have the required permission(s)"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:303
+msgid "The purchase code is invalid"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:306
+msgid "You successfully activated theme"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:309
+msgid "Code is valid"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:312
+msgid "You successfully added demo"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:315
+msgid "You successfully deregister theme"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:318
+msgid "Code is already registered for other domain"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:321
+msgid "Error occurred during activation"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:324
+msgid "Code is invalid"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:327
+msgid "Error occurred during adding"
+msgstr ""
+
+#: modules/core-dashboard/core-dashboard.php:330
+msgid "Error occurred during deactivation"
+msgstr ""
+
+#: modules/core-dashboard/registration-rest.php:38
+msgid "Options data is array with parameters"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:8
+#: modules/import/qode-import.php:216
+msgid "Stockholm 1 - Anders"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:13
+#: modules/import/qode-import.php:217
+msgid "Stockholm 2 - Bjorn"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:18
+#: modules/import/qode-import.php:218
+msgid "Stockholm 3 - Claes"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:23
+#: modules/import/qode-import.php:219
+msgid "Stockholm 4 - Daniel"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:32
+#: modules/import/qode-import.php:220
+msgid "Stockholm 5 - Erland"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:37
+#: modules/import/qode-import.php:221
+msgid "Stockholm 6 - Fredrik"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:42
+#: modules/import/qode-import.php:222
+msgid "Stockholm 7 - Gustav"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:47
+#: modules/import/qode-import.php:223
+msgid "Stockholm 8 - Hugo"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:53
+#: modules/import/qode-import.php:224
+msgid "Stockholm 9 - Ingmar"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:58
+#: modules/import/qode-import.php:225
+msgid "Stockholm 10 - Jonas"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:63
+#: modules/import/qode-import.php:226
+msgid "Stockholm 11 - Kaleb"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:72
+#: modules/import/qode-import.php:227
+msgid "Stockholm 12 - Lars"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:81
+#: modules/import/qode-import.php:228
+msgid "Stockholm 13 - Magnus"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:86
+#: modules/import/qode-import.php:229
+msgid "Stockholm 14 - Noel"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:91
+#: modules/import/qode-import.php:230
+msgid "Stockholm 15 - Oskar"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:100
+#: modules/import/qode-import.php:231
+msgid "Stockholm 16 - Petter"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:105
+#: modules/import/qode-import.php:232
+msgid "Stockholm 17 - Roland"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:114
+#: modules/import/qode-import.php:233
+msgid "Stockholm 18 - Sigfrid"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:119
+#: modules/import/qode-import.php:234
+msgid "Stockholm 19 - Tomas"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:124
+#: modules/import/qode-import.php:235
+msgid "Stockholm 20 - Viggo"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:129
+#: modules/import/qode-import.php:236
+msgid "New Demo 1 - Kelda"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:134
+#: modules/import/qode-import.php:237
+msgid "New Demo 2 - Frida"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:139
+#: modules/import/qode-import.php:238
+msgid "New Demo 3 - Jette"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:144
+#: modules/import/qode-import.php:239
+msgid "New Demo 4 - Metta"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:149
+#: modules/import/qode-import.php:240
+msgid "New Demo 5 - Göta"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:154
+#: modules/import/qode-import.php:241
+msgid "New Demo 6 - Eva"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:159
+#: modules/import/qode-import.php:242
+msgid "New Demo 7 - Tilde"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:164
+#: modules/import/qode-import.php:243
+msgid "New Demo 8 - Ebba"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:169
+#: modules/import/qode-import.php:244
+msgid "New Demo 9 - Rona"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:174
+#: modules/import/qode-import.php:245
+msgid "New Demo 10 - Tove"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:179
+#: modules/import/qode-import.php:246
+msgid "New Demo 11 - Solveig"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:184
+#: modules/import/qode-import.php:247
+msgid "New Demo 12 - Hilde"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:189
+#: modules/import/qode-import.php:248
+msgid "New Demo 13 - Kajsa"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:194
+#: modules/import/qode-import.php:249
+msgid "New Demo 14 - Elke"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:199
+#: modules/import/qode-import.php:250
+msgid "New Demo 15 - Anke"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:204
+#: modules/import/qode-import.php:251
+msgid "New Demo 16 - Dagmar"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:209
+#: modules/import/qode-import.php:252
+msgid "New Demo 17 - Tala"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:214
+#: modules/import/qode-import.php:253
+msgid "New Demo 18 - Oda"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:219
+#: modules/import/qode-import.php:254
+msgid "New Demo 19 - Ylva"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:224
+#: modules/import/qode-import.php:255
+msgid "New Demo 20 - Gala"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:229
+#: modules/import/qode-import.php:256
+msgid "New Demo 21 - Olaf"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:234
+#: modules/import/qode-import.php:257
+msgid "New Demo 22 - Freya"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/demos-list.php:239
+#: modules/import/qode-import.php:258
+msgid "New Demo 23 - Gunnar"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:20
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:48
+#: modules/import/qode-import.php:207
+#: modules/import/qode-import.php:293
+msgid "Import"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:41
+msgid "New"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:42
+msgid "Multipurpose"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:43
+msgid "Business"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:44
+msgid "Creative Agency"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:45
+msgid "Professional Services"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:46
+msgid "Design"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:47
+msgid "Shop"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:48
+msgid "Personal"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:49
+msgid "Presentational"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:50
+msgid "Landing Page"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:51
+msgid "Blog"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:52
+msgid "Fashion & Beauty"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:53
+msgid "Wedding"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:54
+msgid "Hotel & Restaurant"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:55
+msgid "One Page"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import-page.php:56
+msgid "Left Menu"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:110
+#: modules/core-dashboard/sub-pages/import/import.php:142
+msgid "Layer Slider isn't installed"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:129
+msgid "Revolution Slider isn't installed"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:149
+msgid "Please don't try to hack me. Purchase code registered is not valid"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:195
+msgid "Please contact support"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:220
+msgid "Widgets are set for proper sidebar"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:271
+#: modules/import/qode-import.php:76
+msgid "Options imported successfully"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:275
+msgid "Problem occurred during options import"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:280
+msgid "Options are already imported"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:360
+msgid "Menus set for proper locations"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:363
+msgid "Problem during menus location set"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:408
+msgid "An error occurred during content import"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:413
+msgid "File imported successfully"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:482
+msgid "Error while importing rev sliders"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:488
+msgid "Rev sliders imported successfully"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:492
+msgid "Files don't exist"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:544
+msgid "Layer sliders imported successfully"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/import.php:755
+msgid "Pages don't exist"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/parsers.php:42
+#: modules/core-dashboard/sub-pages/import/parsers.php:77
+#: modules/core-dashboard/sub-pages/import/parsers.php:85
+#: modules/import/parsers.php:42
+#: modules/import/parsers.php:75
+#: modules/import/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/parsers.php:43
+#: modules/import/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/parsers.php:89
+#: modules/core-dashboard/sub-pages/import/parsers.php:94
+#: modules/core-dashboard/sub-pages/import/parsers.php:311
+#: modules/core-dashboard/sub-pages/import/parsers.php:507
+#: modules/import/parsers.php:87
+#: modules/import/parsers.php:92
+#: modules/import/parsers.php:309
+#: modules/import/parsers.php:506
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/filter.php:5
+msgid "Search demos by keyword"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/filter.php:14
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:29
+#: modules/import/qode-import.php:265
+#: modules/shortcodes/shortcode-elements/portfolio-list/templates/parts/filter-without-dot.php:11
+#: modules/shortcodes/shortcode-elements/portfolio-list/templates/parts/filter-without-dot.php:13
+#: modules/shortcodes/shortcode-elements/portfolio-list/templates/parts/filter.php:11
+#: modules/shortcodes/shortcode-elements/portfolio-list/templates/parts/filter.php:13
+msgid "All"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:11
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:61
+msgid "Import demo content"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:14
+msgid "Are you sure, you want to import Demo Data now?"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:26
+#: modules/import/qode-import.php:262
+msgid "Import Type"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:28
+#: modules/import/qode-import.php:264
+msgid "Please Select"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:30
+#: modules/import/qode-import.php:266
+msgid "Content"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:31
+#: modules/import/qode-import.php:267
+msgid "Widgets"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:32
+#: modules/import/qode-import.php:268
+msgid "Options"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:37
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:271
+#: modules/import/class.wordpress-importer.php:272
+msgid "Import Attachments"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:39
+#: modules/qode-custom-taxonomy-field.php:15
+#: modules/qode-custom-taxonomy-field.php:25
+#: modules/shortcodes/shortcode-elements/content-slider/content-slider.php:43
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:49
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:60
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:131
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:226
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:261
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:293
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:305
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:316
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:327
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:63
+msgid "Yes"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:40
+#: modules/qode-custom-taxonomy-field.php:14
+#: modules/qode-custom-taxonomy-field.php:26
+#: modules/shortcodes/shortcode-elements/content-slider/content-slider.php:42
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:48
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:59
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:130
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:227
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:262
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:294
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:306
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:317
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:328
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:62
+msgid "No"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:46
+msgid "Import is completed"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:47
+msgid "Something went wrong."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:47
+msgid "Please contact support."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:52
+#: modules/import/qode-import.php:301
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:54
+msgid "0%"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:62
+msgid "Please activate your copy of the theme by registering the theme so you could proceed with the demo import process. "
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/import-item.php:67
+msgid "Activate your theme copy"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/notice.php:3
+msgid "Please note that your server resources are not configured properly so you might run into an issue during the demo import process. Please adjust your server configuration values. "
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/templates/pages-list.php:1
+msgid "Select Page To Import"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:135
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:186
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:190
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:199
+#: modules/import/class.wordpress-importer.php:136
+#: modules/import/class.wordpress-importer.php:187
+#: modules/import/class.wordpress-importer.php:191
+#: modules/import/class.wordpress-importer.php:200
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:170
+#: modules/import/class.wordpress-importer.php:171
+msgid "All done."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:170
+#: modules/import/class.wordpress-importer.php:171
+msgid "Have fun!"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:171
+#: modules/import/class.wordpress-importer.php:172
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:191
+#: modules/import/class.wordpress-importer.php:192
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:207
+#: modules/import/class.wordpress-importer.php:208
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:232
+#: modules/import/class.wordpress-importer.php:233
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:258
+#: modules/import/class.wordpress-importer.php:259
+msgid "Assign Authors"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:259
+#: modules/import/class.wordpress-importer.php:260
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:261
+#: modules/import/class.wordpress-importer.php:262
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:274
+#: modules/import/class.wordpress-importer.php:275
+msgid "Download and import file attachments"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:278
+#: modules/import/class.wordpress-importer.php:279
+msgid "Submit"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:291
+#: modules/import/class.wordpress-importer.php:292
+msgid "Import author:"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:302
+#: modules/import/class.wordpress-importer.php:303
+msgid "or create new user with login name:"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:305
+#: modules/import/class.wordpress-importer.php:306
+msgid "as a new user:"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:313
+#: modules/import/class.wordpress-importer.php:314
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:315
+#: modules/import/class.wordpress-importer.php:316
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:316
+#: modules/import/class.wordpress-importer.php:317
+msgid "- Select -"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:366
+#: modules/import/class.wordpress-importer.php:367
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:418
+#: modules/import/class.wordpress-importer.php:419
+msgid "Failed to import category %s"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:462
+#: modules/import/class.wordpress-importer.php:463
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:512
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:736
+#: modules/import/class.wordpress-importer.php:513
+#: modules/import/class.wordpress-importer.php:737
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:603
+#: modules/import/class.wordpress-importer.php:603
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:639
+#: modules/import/class.wordpress-importer.php:640
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:701
+#: modules/import/class.wordpress-importer.php:702
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:869
+#: modules/import/class.wordpress-importer.php:868
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:876
+#: modules/import/class.wordpress-importer.php:875
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:954
+#: modules/import/class.wordpress-importer.php:949
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:967
+#: modules/import/class.wordpress-importer.php:962
+msgid "Invalid file type"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:1011
+#: modules/import/class.wordpress-importer.php:1006
+msgid "Remote server did not respond"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:1017
+#: modules/import/class.wordpress-importer.php:1012
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:1024
+#: modules/import/class.wordpress-importer.php:1019
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:1029
+#: modules/import/class.wordpress-importer.php:1024
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:1035
+#: modules/import/class.wordpress-importer.php:1030
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:1136
+#: modules/import/class.wordpress-importer.php:1131
+msgid "Import WordPress"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:1143
+#: modules/import/class.wordpress-importer.php:1138
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:1158
+#: modules/import/class.wordpress-importer.php:1153
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/import/wordpress-importer.php:1159
+#: modules/import/class.wordpress-importer.php:1154
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:31
+msgid "System Info"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:49
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:53
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:87
+msgid "The current value is insufficient to properly support the theme. Please adjust this value to 128 in order to meet the theme requirements. "
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:56
+msgid "PHP Version"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:62
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:66
+msgid "The current value is insufficient to properly support the theme. Please adjust this value to 256 in order to meet the theme requirements. "
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:69
+msgid "PHP Time Limit"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:73
+msgid "The current value is insufficient to properly support the theme. Please adjust this value to 300 in order to meet the theme requirements. "
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:76
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:80
+msgid "The current value is insufficient to properly support the theme. Please adjust this value to 5000 in order to meet the theme requirements. "
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:83
+msgid "Max Upload Size"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:90
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:104
+msgid "Home URL"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:108
+msgid "Site URL"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:112
+msgid "WP Version"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:116
+msgid "WP Debug Mode"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:120
+msgid "Language"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:133
+msgid "Theme Name"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:137
+msgid "Theme Version"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/system-info.php:141
+msgid "Theme Author"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/templates/system-info.php:2
+msgid "System Status"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/templates/system-info.php:3
+msgid "Here is a general overview of your system status"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/templates/system-info.php:8
+msgid "WordPress Environment"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/templates/system-info.php:21
+#: modules/core-dashboard/templates/core-dashboard.php:56
+msgid "System Information"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/templates/system-info.php:43
+msgid "Theme Information"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/templates/system-info.php:57
+msgid "Active Plugins"
+msgstr ""
+
+#: modules/core-dashboard/sub-pages/system-info/templates/system-info.php:63
+msgid "by"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:3
+msgid "Qode"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:4
+msgid "Welcome to "
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:7
+msgid "Thank you for choosing %s. Now it's time to create something awesome."
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:12
+msgid "Registration"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:14
+msgid "Please input the purchase code you received with the theme as well as your email address in order to activate your copy of the theme."
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:16
+msgid "You have successfully registered your copy of the theme! Note that if you used your purchase code on one installation, you are required to Deregister in order to use the purchase code on a different installation."
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:23
+msgid "Register your theme"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:24
+#: modules/core-dashboard/templates/core-dashboard.php:28
+msgid "Field is empty"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:25
+#: modules/core-dashboard/templates/core-dashboard.php:41
+msgid "Purchase Code"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:28
+msgid "Email is not valid"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:29
+msgid "Email"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:33
+msgid "Register Theme"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:34
+#: modules/core-dashboard/templates/core-dashboard.php:46
+msgid "Please Wait..."
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:39
+msgid "Deregister your theme"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:45
+msgid "Deregister Theme"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:57
+msgid "Here is an overview of your current server configuration info."
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:79
+msgid "Useful links"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:85
+msgid "Theme Documentation"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:88
+msgid "Support center"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:91
+msgid "Video tutorials"
+msgstr ""
+
+#: modules/core-dashboard/templates/core-dashboard.php:94
+msgid "Qode Interactive themes"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:11
+msgid "Link post format"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:18
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:52
+msgid "Link"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:26
+msgid "Quote post format"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:33
+msgid "Quote"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:41
+msgid "Video post format"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:48
+msgid "Choose Video Type"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:53
+msgid "Video ID"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:59
+msgid "Video image"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:65
+msgid "Video webm"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:71
+msgid "Video mp4"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:77
+msgid "Video ogv"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:85
+msgid "Audio post format"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:92
+msgid "Audio Link"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:141
+msgid "Upload File"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:149
+msgid "YouTube"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:154
+msgid "Vimeo"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:159
+msgid "Self Hosted"
+msgstr ""
+
+#: modules/helper.php:51
+msgid "Stockholm Options"
+msgstr ""
+
+#: modules/helper.php:163
+#: modules/helper.php:193
+#: modules/helper.php:225
+msgid "Import field is empty"
+msgstr ""
+
+#: modules/helper.php:170
+msgid "Options are imported successfully"
+msgstr ""
+
+#: modules/helper.php:172
+#: modules/helper.php:205
+#: modules/helper.php:250
+msgid "Non valid authorization"
+msgstr ""
+
+#: modules/helper.php:177
+#: modules/helper.php:209
+#: modules/helper.php:254
+msgid "You don't have privileges for this operation"
+msgstr ""
+
+#: modules/helper.php:202
+#: modules/import/qode-import.php:70
+msgid "Custom sidebars imported successfully"
+msgstr ""
+
+#: modules/helper.php:248
+#: modules/import/qode-import.php:50
+msgid "Widgets imported successfully"
+msgstr ""
+
+#: modules/helper.php:346
+msgid "Name: "
+msgstr ""
+
+#: modules/helper.php:347
+msgid "Email: "
+msgstr ""
+
+#: modules/helper.php:349
+msgid "WebSite: "
+msgstr ""
+
+#: modules/helper.php:351
+msgid "Message: "
+msgstr ""
+
+#: modules/helper.php:364
+msgid "Invalid Captcha"
+msgstr ""
+
+#: modules/helper.php:371
+msgid "THANK YOU!"
+msgstr ""
+
+#: modules/helper.php:371
+msgid "Your email was successfully sent. We will contact you as soon as possible."
+msgstr ""
+
+#: modules/helper.php:373
+msgid "Email server problem"
+msgstr ""
+
+#: modules/import/qode-import.php:33
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: modules/import/qode-import.php:35
+msgid "Content imported successfully"
+msgstr ""
+
+#: modules/import/qode-import.php:185
+#: modules/import/qode-import.php:186
+msgid "Select Import"
+msgstr ""
+
+#: modules/import/qode-import.php:200
+msgid "Stockholm — One-Click Import"
+msgstr ""
+
+#: modules/import/qode-import.php:204
+msgid "Import Demo Content"
+msgstr ""
+
+#: modules/import/qode-import.php:208
+msgid "Choose demo content you want to import"
+msgstr ""
+
+#: modules/import/qode-import.php:214
+msgid "Demo Site"
+msgstr ""
+
+#: modules/import/qode-import.php:277
+msgid "Import attachments"
+msgstr ""
+
+#: modules/import/qode-import.php:278
+msgid "Do you want to import media files?"
+msgstr ""
+
+#: modules/import/qode-import.php:312
+msgid "Important notes:"
+msgstr ""
+
+#: modules/import/qode-import.php:314
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: modules/import/qode-import.php:315
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: modules/import/qode-import.php:385
+msgid "Import is completed."
+msgstr ""
+
+#: modules/qode-custom-post-types.php:16
+msgid "Select Portfolio"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:17
+msgid "Select Portfolio Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:18
+msgid "New Portfolio Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:19
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:20
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:43
+msgid "Select Testimonials"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:44
+msgid "Select Testimonial"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:45
+msgid "New Testimonial"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:46
+msgid "Add New Testimonial"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:47
+msgid "Edit Testimonial"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:64
+#: modules/qode-custom-post-types.php:65
+msgid "Select Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:66
+msgid "Slides"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:67
+#: modules/qode-custom-post-types.php:70
+msgid "Add New Slide"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:68
+msgid "Slide"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:69
+msgid "New Slide"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:71
+msgid "Edit Slide"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:88
+#: modules/qode-custom-post-types.php:89
+msgid "Select Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:90
+msgid "Carousel Items"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:91
+#: modules/qode-custom-post-types.php:94
+msgid "Add New Carousel Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:92
+msgid "Carousel Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:93
+msgid "New Carousel Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:95
+msgid "Edit Carousel Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:112
+#: modules/qode-custom-post-types.php:122
+msgid "Portfolio Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:113
+msgid "Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:114
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:115
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:116
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:117
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:118
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:119
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:120
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:121
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:137
+#: modules/qode-custom-post-types.php:147
+msgid "Portfolio Tags"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:138
+msgid "Portfolio Tag"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:139
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:140
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:141
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:142
+msgid "Parent Portfolio Tags:"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:143
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:144
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:145
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:146
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:161
+#: modules/qode-custom-post-types.php:171
+msgid "Testimonials Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:162
+msgid "Testimonial Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:163
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:164
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:165
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:166
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:167
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:168
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:169
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:170
+msgid "New Testimonials Category Name"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:186
+#: modules/qode-custom-post-types.php:196
+msgid "Sliders"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:187
+msgid "Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:188
+msgid "Search Sliders"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:189
+msgid "All Sliders"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:190
+msgid "Parent Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:191
+msgid "Parent Slider:"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:192
+msgid "Edit Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:193
+msgid "Update Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:194
+msgid "Add New Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:195
+msgid "New Slider Name"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:211
+#: modules/qode-custom-post-types.php:221
+msgid "Carousels"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:212
+msgid "Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:213
+msgid "Search Carousels"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:214
+msgid "All Carousels"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:215
+msgid "Parent Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:216
+msgid "Parent Carousel:"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:217
+msgid "Edit Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:218
+msgid "Update Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:219
+msgid "Add New Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:220
+msgid "New Carousel Name"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:10
+msgid "Effect on header (dark/light style)"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:21
+msgid "Parallax effect"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:32
+msgid "Slider shortcode"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:36
+msgid "Use this shortcode to insert it on page"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:71
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:246
+msgid "Name"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:72
+msgid "Shortcode"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:73
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:249
+msgid "Slug"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:74
+msgid "Posts"
+msgstr ""
+
+#: modules/qode-like.php:113
+#: modules/qode-like.php:124
+#: modules/qode-like.php:136
+msgid "Like this"
+msgstr ""
+
+#: modules/qode-like.php:116
+msgid "You already liked this!"
+msgstr ""
+
+#: modules/qode-like.php:128
+#: modules/qode-like.php:140
+msgid "You already like this!"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/call-to-action.php:128
+#: modules/shortcodes/shortcode-elements/message.php:80
+msgid "Custom image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:25
+msgid "Centered Portfolio Carousel"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:27
+#: modules/shortcodes/shortcode-elements/content-slider/content-slide.php:25
+#: modules/shortcodes/shortcode-elements/content-slider/content-slider.php:24
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:39
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:24
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:24
+#: modules/shortcodes/shortcode-elements/parallax-holder/parallax-holder.php:22
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:24
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:24
+msgid "by SELECT"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:32
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:166
+msgid "Image size"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:35
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:71
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:71
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:70
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:97
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:111
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:129
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:169
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:53
+msgid "Default"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:36
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:170
+msgid "Original Size"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:37
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:172
+msgid "Landscape"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:38
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:173
+msgid "Portrait"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:43
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:335
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:68
+msgid "Number"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:45
+msgid "Number of portfolios on page (Leave empty for all)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:46
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:56
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:63
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:70
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:77
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:71
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:81
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:88
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:95
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:102
+msgid "Build Query"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:50
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:210
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:75
+msgid "Order By"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:53
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:78
+msgid "Date"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:54
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:35
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:35
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:79
+msgid "Title"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:60
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:216
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:85
+msgid "Order"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:67
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:343
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:92
+msgid "Category"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:69
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:346
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:94
+msgid "Category Slug (leave empty for all)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:74
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:99
+msgid "Selected Posts"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:76
+msgid "Selected Portfolios (leave empty for all, delimit by comma)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/content-slider/content-slide.php:21
+msgid "Content Slide"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/content-slider/content-slider.php:21
+msgid "Content Slider"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/content-slider/content-slider.php:31
+msgid "Animation speed"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/content-slider/content-slider.php:35
+msgid "Speed of slide animation in miliseconds"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/content-slider/content-slider.php:39
+msgid "Show Navigation Arrows"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:37
+msgid "Google Map"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:45
+msgid "Address 1"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:50
+msgid "Address 2"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:56
+msgid "Address 3"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:62
+msgid "Address 4"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:68
+msgid "Address 5"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:74
+msgid "Predefined Map Style"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:76
+msgid "Enabling this option will set our predefined map style"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:81
+msgid "Custom Map Style"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:83
+msgid "Enabling this option will allow Map editing"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:89
+msgid "Color Overlay"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:90
+msgid "Choose a Map color overlay"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:96
+msgid "Saturation"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:97
+msgid "Choose a level of saturation (-100 = least saturated, 100 = most saturated)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:103
+msgid "Lightness"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:104
+msgid "Choose a level of lightness (-100 = darkest, 100 = lightest)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:110
+msgid "Pin"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:111
+msgid "Select a pin image to be used on Google Map"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:116
+msgid "Map Zoom"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:117
+msgid "Enter a zoom factor for Google Map (0 = whole worlds, 19 = individual buildings)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:122
+msgid "Zoom Map on Mouse Wheel"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:124
+msgid "Enabling this option will allow users to zoom in on Map using mouse wheel"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/google-map/google-map.php:129
+msgid "Map Height"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:22
+msgid "Image With Overlapping Info"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:29
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:29
+msgid "Image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:41
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:41
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:357
+msgid "Title Tag"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:47
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:47
+msgid "Text"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:57
+msgid "Target"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:63
+msgid "Link Text"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:68
+msgid "Link Hover Animation"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:72
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:54
+msgid "Display Dash"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:22
+msgid "Interactive Image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:52
+msgid "Button Link"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:57
+msgid "Button Target"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:63
+msgid "Button Text"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:68
+msgid "Button Style"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:72
+msgid "White"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:73
+msgid "Underlined"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/interactive-image/interactive-image.php:78
+msgid "Set as active"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/latest-posts.php:140
+#: modules/shortcodes/shortcode-elements/latest-posts.php:165
+#: modules/shortcodes/shortcode-elements/latest-posts.php:180
+msgid "By"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/parallax-holder/parallax-holder.php:19
+msgid "Parallax Holder"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/parallax-holder/parallax-holder.php:28
+msgid "Y Axis Translation"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/parallax-holder/parallax-holder.php:32
+msgid "Enter the value in pixels. Negative value changes parallax direction."
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:22
+msgid "Portfolio List"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:30
+msgid "Type"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:33
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:98
+msgid "Standard"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:34
+msgid "Standard No Space"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:35
+msgid "Gallery Text"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:36
+msgid "Gallery No Space"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:37
+msgid "Masonry"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:38
+#: modules/shortcodes/shortcode-elements/social-share.php:115
+msgid "Pinterest"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:39
+msgid "Justified Gallery"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:45
+msgid "Space Between Masonry"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:56
+msgid "Space Between Pinterest"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:67
+msgid "Loading Type"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:71
+msgid "Appear From Bottom"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:78
+msgid "Parallax Item Speed"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:81
+msgid "This option only takes effect on portfolio items on which Set Masonry Item in Parallax is set to Yes default value is 0.3"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:86
+msgid "Parallax Item Offset"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:89
+msgid "This option only takes effect on portfolio items on which Set Masonry Item in Parallax is set to Yes default value is 0"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:94
+msgid "Hover Type"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:99
+msgid "Elegant Without Icons"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:100
+msgid "Move from Left"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:101
+msgid "Overlapping Title"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:108
+msgid "Pinterest Hover Type"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:112
+msgid "Info on Hover"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:119
+msgid "Box Background Color"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:126
+msgid "Box Border"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:137
+msgid "Box Border Width (px)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:144
+msgid "Box Border Color"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:151
+msgid "Columns"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:171
+msgid "Square"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:179
+msgid "Row Height (px)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:183
+msgid "Targeted row height, which may vary depending on the proportions of the images."
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:188
+msgid "Last Row Behavior"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:191
+msgid "Align left"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:192
+msgid "Align right"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:193
+msgid "Align centrally"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:194
+msgid "Justify"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:195
+msgid "Hide"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:197
+msgid "Defines whether to justify the last row, align it in a certain way, or hide it."
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:202
+msgid "Justify Threshold (0-1)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:205
+msgid "If the last row takes up more than this part of available width, it will be justified despite the defined alignment. Enter 1 to never justify the last row."
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:222
+msgid "Filter"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:229
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:264
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:296
+msgid "Default value is No"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:233
+msgid "Filter Position"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:236
+msgid "Top"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:237
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:280
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:375
+msgid "Left"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:239
+msgid "Default value is Top"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:243
+msgid "Filter Order By"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:247
+msgid "Count"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:248
+msgid "Id"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:252
+msgid "Default value is Name"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:257
+msgid "Disable Filter Title"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:269
+msgid "Filter Title Text"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:272
+msgid "Enter custom filter title text"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:277
+msgid "Filter Align"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:281
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:376
+msgid "Center"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:282
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:377
+msgid "Right"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:289
+msgid "Disable Portfolio Link"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:301
+msgid "Show Lightbox"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:308
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:319
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:330
+msgid "Default value is Yes"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:312
+msgid "Show Like"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:323
+msgid "Show Load More"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:338
+msgid "Number of portolios on page (-1 is all)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:350
+msgid "Selected Projects"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:353
+msgid "Selected Projects (leave empty for all, delimit by comma)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:364
+msgid "Title Custom Font Size (px)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:371
+msgid "Text align"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/portfolio-list.php:443
+msgid "Sort Portfolio:"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/templates/parts/categories-with-comma.php:5
+#: modules/shortcodes/shortcode-elements/portfolio-list/templates/parts/categories.php:5
+#: modules/shortcodes/shortcode-elements/portfolio-slider.php:126
+msgid "In "
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/templates/parts/posts-not-found.php:1
+#: modules/shortcodes/shortcode-elements/portfolio-slider.php:159
+#: modules/shortcodes/shortcode-elements/qode-carousel.php:142
+#: modules/shortcodes/shortcode-elements/qode-carousel.php:239
+#: modules/shortcodes/shortcode-elements/qode-slider.php:605
+#: modules/shortcodes/shortcode-elements/testimonials.php:134
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/templates/parts/show-more.php:4
+msgid "Show more"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/portfolio-list/templates/parts/show-more.php:5
+msgid "Loading..."
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/qode-slider.php:432
+msgid "Overlay image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/qode-slider.php:434
+msgid "Video overlay image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/qode-slider.php:445
+msgid "No video playback capabilities"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/qode-slider.php:445
+msgid "Video thumb"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/qode-slider.php:576
+msgid "Sorry, no slides matched your criteria."
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:22
+msgid "Simple Blog List"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:29
+msgid "Posts Title Tag"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:40
+msgid "Number of Columns"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:50
+msgid "Read More Hover Animation"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:59
+msgid "Enable Blog List Animation"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:70
+msgid "Number of blog posts on page (Leave empty for all)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:101
+msgid "Selected Posts (leave empty for all, delimit by comma)"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/simple-blog-list/templates/simple-blog-list-template.php:16
+msgid "Read More"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:31
+#: modules/shortcodes/shortcode-elements/social-share-list.php:33
+#: modules/shortcodes/shortcode-elements/social-share.php:39
+#: modules/shortcodes/shortcode-elements/social-share.php:42
+msgid "Share on Facebook"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:38
+#: modules/shortcodes/shortcode-elements/social-share.php:47
+msgid "Facebook image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:54
+#: modules/shortcodes/shortcode-elements/social-share.php:59
+msgid "Share on Twitter"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:57
+#: modules/shortcodes/shortcode-elements/social-share.php:62
+msgid "Twitter image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:72
+msgid "Share on Google+"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:74
+#: modules/shortcodes/shortcode-elements/social-share.php:74
+msgid "Google image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:89
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:91
+#: modules/shortcodes/shortcode-elements/social-share.php:86
+msgid "Linkedin image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:106
+msgid "Share on Tumblr"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:108
+msgid "Tumblr image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:124
+msgid "Share on Pinterest"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:126
+#: modules/shortcodes/shortcode-elements/social-share.php:111
+msgid "Pinterest image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:142
+msgid "Share on VK"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share-list.php:144
+#: modules/shortcodes/shortcode-elements/social-share.php:124
+msgid "VK image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share.php:33
+msgid "Share"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share.php:51
+msgid "Facebook"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share.php:66
+msgid "Twitter"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share.php:78
+msgid "Google+"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share.php:90
+msgid "LinkedIn"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share.php:98
+msgid "Thumbler image"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share.php:102
+msgid "Tumblr"
+msgstr ""
+
+#: modules/shortcodes/shortcode-elements/social-share.php:128
+msgid "VK"
+msgstr ""
+
+#: modules/widgets/helper.php:52
+msgid "Initially closed sub-levels"
+msgstr ""
+
+#: modules/widgets/widget-class.php:84
+msgid "There are no options for this widget."
+msgstr ""
